@@ -1,7 +1,13 @@
+---
+title: "Daniel Spaleniak - Back Home (feat. Katarzyna Kowalczyk)"
+date: 2026-04-19T17:00:00+02:00
+draft: false
+---
+
 # Daniel Spaleniak - Back Home (feat. Katarzyna Kowalczyk)
 
 Copied from https://www.cifraclub.com.br/daniel-spaleniak/back-home-feat-katarzyna-kowalczyk/#, for easier access without the site
-
+```
 Tuning: Drop D (D A D G B E)
 
 E|----------------------------------------------------|
@@ -42,3 +48,4 @@ G|----------------------------------------------------|
 D|---0---0---0-----0------------------------0---------|
 A|-------------0-3---5---5/8---7---5--3h5-------------|
 E|-0---0---0-------3---3-----5---5----0---------------|
+```
